@@ -1,0 +1,2 @@
+# Todo-Note
+📝 TodoNote - A Modern Task Management Application  A sleek, responsive task management app built with React that helps you organize your daily tasks, notes, and to-dos in one place. Features include: - 📋 Create, edit, and delete tasks - 📅 Organize tasks with categories and due dates - 🔍 Quick search and filter functionality - 🌓 Light/Dark mode support - 📱 Fully responsive design for all devices  Built with modern web technologies and best practices to provide a smooth user experience for managing your daily workflow.
